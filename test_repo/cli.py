@@ -3,10 +3,8 @@
 
 from logging import getLogger
 from logging.config import fileConfig
-from os import makedirs, utime
-from os.path import abspath, dirname, exists, join
+from os.path import abspath, dirname, join
 from platform import machine, python_version, system
-from sys import exit
 
 
 def main():
@@ -29,11 +27,6 @@ if __name__ == "__main__":
     log.debug(
         "Configuration settings:\n\n \
 Approot: %s |\n \
-Logconfig file: %s |\n \
-Config file: %s |\n",
-        parser.app_root,
-        parser.default_logconf,
-        parser.config_file,
+Logconfig file: %s |\n"
     )
-
     main()
