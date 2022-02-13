@@ -26,7 +26,6 @@ if __name__ == "__main__":
     )
     log.debug(
         "Configuration settings:\n\n \
-Approot: %s |\n \
-Logconfig file: %s |\n"
+Approot: %s |\n"
     )
     main()
