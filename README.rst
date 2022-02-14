@@ -7,7 +7,7 @@ Test repo
         :target: https://pypi.python.org/pypi/test_repo
 
 .. image:: https://img.shields.io/travis/enetrati/test_repo.svg
-        :target: https://travis-ci.com/enetrati/test_repo
+        :target: https://github.com/enetrati/test_repo/github/workflow/status/:user/:repo/:workflow
 
 .. image:: https://readthedocs.org/projects/test-repo/badge/?version=latest
         :target: https://test-repo.readthedocs.io/en/latest/?version=latest
