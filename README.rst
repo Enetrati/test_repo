@@ -6,7 +6,7 @@ Test repo
 .. image:: https://img.shields.io/pypi/v/test_repo.svg
         :target: https://pypi.python.org/pypi/test_repo
 
-.. image:: https://github.com/Enetrati/test_repo/actions/workflows/master/main.yml/badge.svg
+.. image:: https://github.com/Enetrati/test_repo/actions/workflows/main.yml/badge.svg
         :target: https://github.com/Enetrati/test_repo
         
 .. image:: https://readthedocs.org/projects/test-repo/badge/?version=latest
