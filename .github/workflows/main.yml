@@ -1,4 +1,4 @@
-name: Master
+name: Dev
 on:
   push:
     branches:
@@ -13,6 +13,5 @@ jobs:
         fetch-depth: 0
     - run: pip install .
     - run: pip install pre-commit pytest python-semantic-release
-    - run: pytest tests
     - run: git config --global user.name "github-actions"
     - run: git config --global user.email "action@github.com"
