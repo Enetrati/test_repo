@@ -7,7 +7,7 @@ Test repo
         :target: https://pypi.python.org/pypi/test_repo
 
 .. image:: https://img.shields.io/travis/enetrati/test_repo.svg
-        :target: https://github.com/enetrati/test_repo/
+        :target: [![master](https://github.com/Enetrati/test_repo/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Enetrati/test_repo/actions/workflows/main.yml)
 
 .. image:: https://readthedocs.org/projects/test-repo/badge/?version=latest
         :target: https://test-repo.readthedocs.io/en/latest/?version=latest
